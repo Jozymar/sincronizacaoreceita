@@ -15,7 +15,7 @@
 ### Execução
 
 * Navegue até o diretório: `out/artifacts/sincronizacaoreceita_jar`.
-* Copie o arquivo: `sincronizacaoreceita.jar` para um diretório de preferência, ou no mesmo diretório, execute o comando abaixo em um terminal, substituindo `<input-file>`pelo arquivo `CSV` que deseja processar:
+* Copie o arquivo: `sincronizacaoreceita.jar` para um diretório de preferência, ou no mesmo diretório, execute o comando abaixo em um terminal, substituindo `<input-file>` pelo arquivo `CSV` que deseja processar:
 
 ~~~java
  java -jar sincronizacaoreceita.jar <input-file>
